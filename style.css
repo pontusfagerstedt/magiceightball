@@ -101,12 +101,29 @@ p {
 }
 
 @media only screen and (max-width: 590px) {
+
 	h1 {
-		font-size: 20px;
+		font-size: 16px;
+		letter-spacing: 4px;
 	}
+
+	h3 {
+		font-size: 20px;
+		margin: 20px 0 24px 0;
+	}
+
 	img {
 		padding: 16px 80px 0 80px;
 		width: 100px;
+	}
+
+	.button {
+		font-size: 20px;
+		width: 200px;
+	}
+
+	.rubrik {
+	font-size: 14px;
 	}
 }
 
